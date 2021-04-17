@@ -19,6 +19,7 @@ streamlit run "path/stock_app.py"
 
 Wait your default browser open the tab and then you will find a screen like this:
 
+![What is this](screenshot.png)
 
 By default its set to look for Petrobras stocks prices and show its Adjusted Prices, Volume and 30 days Moving Average from 2020-01-02 to 2021-01-02. If want to look for another company or another range of time, change it,press enter and let Yahoo's API work.
 
